@@ -1,6 +1,3 @@
-# GitHub Profile README — Srinivasa Rithik
-
-```markdown
 <h1 align="center">Hey, I'm Rithik 👋</h1>
 
 <p align="center">
@@ -85,15 +82,3 @@
 <p align="center">
   <b>Let's build something → ghantasala.s@northeastern.edu</b>
 </p>
-```
-
----
-
-## Optional Setup Notes
-
-| Widget | Setup Required |
-|--------|----------------|
-| **Mermaid Gantt** | Works automatically on GitHub |
-| **Spotify** | Replace `YOUR_SPOTIFY_ID` — get it from [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) |
-| **Dev Quote** | Works automatically |
-| **F1 Badge** | Static — update manually each race |
